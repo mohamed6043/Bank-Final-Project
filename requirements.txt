@@ -4,3 +4,4 @@ streamlit==1.31.0
 streamlit_option_menu
 matplotlib
 scikit-learn
+xgboost
