@@ -6,4 +6,3 @@ streamlit_option_menu
 matplotlib
 numpy==1.23.5
 scikit-learn==0.24.2
-distutils
